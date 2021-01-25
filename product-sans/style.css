@@ -1,0 +1,95 @@
+/* kannada */
+@font-face {
+    font-family: 'rytplays-fonts';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/balootamma2/v1/vEFX2_hCAgcR46PaajtrYlBbf1U81-qe.woff2) format('woff2');
+    unicode-range: U+0964-0965, U+0C82-0CF2, U+200C-200D, U+20B9, U+25CC;
+}
+
+/* kannada */
+@font-face {
+    font-family: 'rytplays-fonts';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd7wfws-_Wo7H.woff2) format('woff2');
+    unicode-range: U+0964-0965, U+0C82-0CF2, U+200C-200D, U+20B9, U+25CC;
+}
+
+/* kannada */
+@font-face {
+    font-family: 'rytplays-fonts';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd5AYws-_Wo7H.woff2) format('woff2');
+    unicode-range: U+0964-0965, U+0C82-0CF2, U+200C-200D, U+20B9, U+25CC;
+}
+
+/* kannada */
+@font-face {
+    font-family: 'rytplays-fonts';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd_QZws-_Wo7H.woff2) format('woff2');
+    unicode-range: U+0964-0965, U+0C82-0CF2, U+200C-200D, U+20B9, U+25CC;
+}
+
+
+
+@font-face 
+{
+    font-family: 'rytplays-fonts';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Open Sans'), local('OpenSans'), url("product-sans-regular.ttf") format('woff2');
+}
+@font-face 
+{
+    font-family: 'rytplays-fonts';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Open Sans'), local('OpenSans'), url("product-sans-bold.ttf") format('woff2');
+}
+
+
+
+
+@font-face {
+    font-family: 'rytplays-fonts';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(product-sans-regular.ttf) format('woff2');
+}
+
+
+@font-face {
+    font-family: 'rytplays-fonts';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(product-sans-bold.ttf) format('woff2');
+}
+
+/* kannada */
+@font-face {
+    font-family: 'rytplays-fonts';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(product-sans-bold.ttf) format('woff2');
+}
+
+/* kannada */
+@font-face {
+    font-family: 'rytplays-fonts';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(product-sans-bold.ttf) format('woff2');
+}
+*{font-family: 'rytplays-fonts';}
